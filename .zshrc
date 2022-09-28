@@ -20,7 +20,7 @@ alias m="less"
 
 # More suitable for .zshenv
 EDITOR=vim
-PROMPT='%n@%m %3~%(!.#.$)%(?.. [%?]) '
+PROMPT='> %3~%(!.#.$)%(?.. [%?]) '
 
 # History settings
 HISTFILE=~/.history-zsh
